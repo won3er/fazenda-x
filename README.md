@@ -16,8 +16,4 @@ Produtores rurais, consultores e técnicos que querem conhecer melhor uma propri
 
 **No ar:** https://fazenda-x.vercel.app
 
----
-
-Este repositório é uma **vitrine** do projeto: mostra o que o sistema faz. O código-fonte não é público.
-
 Desenvolvido por [@won3er](https://github.com/won3er).
